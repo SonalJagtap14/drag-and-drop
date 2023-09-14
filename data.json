@@ -1,0 +1,20 @@
+{
+	"questions": [
+	  {
+		"word": "CAP",
+		"img": "cap.jpeg",
+		"audio": "cap.mp3"
+	  },
+	  {
+		"word": "MAP",
+		"img": "map.jpeg",
+		"audio": "map.mp3"
+	  },
+	  {
+		"word": "TAP",
+		"img": "tap.jpeg",
+		"audio": "tap.mp3"
+	  }
+	]
+  }
+  
